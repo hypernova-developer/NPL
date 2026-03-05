@@ -1,4 +1,4 @@
-HYPERNOVA-DEVELOPER PUBLIC LICENSE (HD HPL) v1.0
+HYPERNOVA-DEVELOPER NOVA PUBLIC LICENSE (HD NPL) v2.0
 ------------------------------------------------
 <program> Copyright (c) <year> <developer>
 
@@ -36,6 +36,27 @@ This software is provided "AS IS", without warranty of any kind.
 The author (hypernova-developer) is not responsible for any system 
 failures or excessive speed achieved by this software.
 
+7. THE ANTI-EXPLOIT & ANTI-MINING CLAUSE
+This software is a guest on the CPU. It shall not be used to mine 
+cryptocurrency, execute unauthorized telemetry, or perform any
+background tasks that degrade hardware longevity for third-party
+gain. Any attempt to turn 'Pure Power' into 'Parasitic Power' is 
+a breach of this license.
+
+8. HARDWARE-CENTRIC OPTIMIZATION MANDATE
+Any fork or derivative of this software must prioritize direct hardware
+communication (Bare Metal philosophy). Introducing abstraction layers that
+increase latency or memory footprint unnecessarily is considered a violation
+of the developer's intent. Efficiency is not an option; it is a requirement.
+(Python-like VM based languages are still supported.)
+
+9. THE NON-SUBSCRIPTION EDICT
+This software, and all its derivatives, shall remain free from subscription-based
+paywalls. Access to the full power of the machine is a fundamental right of the
+user. No 'Activation Watermarks' or 'Premium Locked Features' shall ever be implemented.
+
 ------------------------------------------------
 PURE POWER IS THE LAW OF OUR THOUGHT.
 ------------------------------------------------
+
+License prepared by hypernova-developer for developers.
